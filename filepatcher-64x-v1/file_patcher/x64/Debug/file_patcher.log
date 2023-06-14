@@ -1,0 +1,3 @@
+﻿  file_patcher.cpp
+C:\Users\Owner\source\repos\file_patcher\file_patcher\file_patcher.cpp(39,33): warning C4018: '>=': signed/unsigned mismatch
+  file_patcher.vcxproj -> C:\Users\Owner\source\repos\file_patcher\x64\Debug\file_patcher.exe
