@@ -1,2 +1,2 @@
 # file-patcher
-c++ filepatcher
+gui version aswell
